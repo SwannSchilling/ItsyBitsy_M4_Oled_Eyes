@@ -27,7 +27,7 @@ Also you will need to drag and drop:
 8. spritesheet_sad.bmp
 9. spritesheet_center.bmp
 
-Once you did this a sequence of all animations should be played back...
+Once you did all this a sequence of all animations should be played back...
 
 You can play individual animations by just sending the animations number to the serial port!
 
