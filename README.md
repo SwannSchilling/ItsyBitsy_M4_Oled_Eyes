@@ -56,7 +56,9 @@ The code is a bit messy, but it should work fine...
 
 You can connect via Serial USB or UART...
 
-Have fun!! :)
+The test_serial.py provides an example on how to connect via Serial!
+
+Have fun!!! :)
 
 ![alt text](https://github.com/SwannSchilling/ItsyBitsy_M4_Oled_Eyes/blob/main/OledsAndBuzzer.JPG)
 
