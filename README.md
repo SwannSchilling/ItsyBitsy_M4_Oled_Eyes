@@ -5,7 +5,7 @@ To set the project up, the following hardware is needed:
 1. 1x https://www.adafruit.com/product/3800 >
 2. 2 x https://www.adafruit.com/product/938
 
-for the sound effects a piezo buzzer is nedded (optional)...
+For the sound effects a piezo buzzer is nedded (optional)...
 1. 1x https://www.adafruit.com/product/1740
 
 Follow the wiring diagram, and make sure to flash the two display firmware to the board!
@@ -31,6 +31,7 @@ e.g "4" will play spritesheet_look_left_low.bmp
 
 In this section of the code, you modifiy which images are being loaded and their corresponding playback commands:
 
+```
 def print_serial(data):
     print(data)
     if data ==1:
@@ -45,6 +46,7 @@ def print_serial(data):
         anim_eyes(("/spritesheet_center.bmp"),.005,0,center_sound)
     elif data ==6:
          anim_eyes(("/spritesheet.bmp"),.005,0,blink_sound)
+```
 
 Have fun!! :)
 
