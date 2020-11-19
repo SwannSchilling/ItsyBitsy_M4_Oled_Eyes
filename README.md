@@ -2,11 +2,11 @@
 Driving Oled Animations in CircuitPython
 
 To set the project up, the following hardware is needed:
-⋅⋅*. 1x https://www.adafruit.com/product/3800 >
-⋅⋅*. 2 x https://www.adafruit.com/product/938
+1. 1x https://www.adafruit.com/product/3800 >
+2. 2 x https://www.adafruit.com/product/938
 
 for the sound effects a piezo buzzer is nedded (optional)...
-⋅⋅*. 1x https://www.adafruit.com/product/1740
+1. 1x https://www.adafruit.com/product/1740
 
 Follow the wiring diagram, and make sure to flash the two display firmware to the board!
 Just double click the reset button and drag and drop the ItsyBitsyM4_2Display.uf2 inside the folder that will pop up...
