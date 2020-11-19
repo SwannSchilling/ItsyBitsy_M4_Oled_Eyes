@@ -52,6 +52,10 @@ def print_serial(data):
          anim_eyes(("/spritesheet.bmp"),.005,0,blink_sound)
 ```
 
+The cone is a bit messy, but it should work fine...
+
+You can connect via Serial USB or UART...
+
 Have fun!! :)
 
 ![alt text](https://github.com/SwannSchilling/ItsyBitsy_M4_Oled_Eyes/blob/main/OledsAndBuzzer.JPG)
