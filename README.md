@@ -33,7 +33,7 @@ You can play individual animations by just sending the animations number to the 
 
 e.g "4" will play spritesheet_look_left_low.bmp
 
-In this section of the code, you modifiy which images are being loaded and their corresponding playback commands:
+In this section of the code, you can modifiy which images are being loaded and their corresponding playback commands:
 
 ```
 def print_serial(data):
