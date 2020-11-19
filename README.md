@@ -15,15 +15,15 @@ For more info or in case something goes wrong, here is some more detailed inform
 https://learn.adafruit.com/introducing-adafruit-itsybitsy-m4/uf2-bootloader-details
 
 Also you will need to drag and drop:
-main.py 
-spritesheet.bmp
-spritesheet_look_left.bmp
-spritesheet_look_right.bmp
-spritesheet_look_left_low.bmp
-spritesheet_look_right_low.bmp
-spritesheet_happy.bmp
-spritesheet_sad.bmp
-spritesheet_center.bmp
+1. main.py 
+2. spritesheet.bmp
+3. spritesheet_look_left.bmp
+4. spritesheet_look_right.bmp
+5. spritesheet_look_left_low.bmp
+6. spritesheet_look_right_low.bmp
+7. spritesheet_happy.bmp
+8. spritesheet_sad.bmp
+9. spritesheet_center.bmp
 
 Once you did this a sequence of all animations should be played back...
 You can play individual animations by just sending the animations number to the serial port!
