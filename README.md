@@ -2,8 +2,8 @@
 Driving Oled Animations in CircuitPython
 
 To set the project up, the following hardware is needed:
-1.  1x https://www.adafruit.com/product/3800 >
-2. 2 x https://www.adafruit.com/product/938
+⋅⋅*. 1x https://www.adafruit.com/product/3800 >
+⋅⋅*. 2 x https://www.adafruit.com/product/938
 
 for the sound effects a piezo buzzer is nedded (optional)...
 ⋅⋅*. 1x https://www.adafruit.com/product/1740
